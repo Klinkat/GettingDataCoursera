@@ -1,4 +1,4 @@
-## Human Activity Recognition Using Smartphones Dataset
+### Human Activity Recognition Using Smartphones Dataset
 
 30 volunteers performed six activities each (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone on the
 waist. Using its embedded accelerometer and gyroscope, 3-axial linear
